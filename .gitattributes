@@ -1,0 +1,9 @@
+*.vpk filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.VPK filter=lfs diff=lfs merge=lfs -text
+*.lua filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.xml filter=lfs diff=lfs merge=lfs -text
+*.sfo filter=lfs diff=lfs merge=lfs -text
+/version filter=lfs diff=lfs merge=lfs -text
